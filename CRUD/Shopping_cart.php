@@ -175,7 +175,6 @@
                     <?php
                     $query = "SELECT * FROM `customer_cart`";
                     $result = $connect->query($query);
-
                     if ($result->num_rows > 0) {
                         while ($row = $result->fetch_assoc()) {
                     ?>
@@ -270,7 +269,6 @@
                 </h6>
             <!-- Modal_Update -->
             <?php include('Modal_Update.php')?>
-            
         </body>
         <script src="../script.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
