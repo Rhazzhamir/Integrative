@@ -112,9 +112,7 @@
                         opacity: 1;
                     }
                     }
-
                     /* Back button */
-
                     .backButton {
                         display: flex;
                         height: 3em;
@@ -130,19 +128,16 @@
                         background: rgb(242, 242, 242);
                         margin-bottom: 20px;
                         }
-
                         .backButton > svg {
                         margin-right: 5px;
                         margin-left: 5px;
                         font-size: 20px;
                         transition: all 0.4s ease-in;
                         }
-
                         .backButton:hover > svg {
                         font-size: 1.2em;
                         transform: translateX(-5px);
                         }
-
                         .backButton:hover {
                         box-shadow: 9px 9px 33px #d1d1d1, -9px -9px 33px #ffffff;
                         transform: translateY(-2px);
@@ -242,7 +237,7 @@
                             </a>    
                         </td>
                         <td>    
-                        
+            
                         </td>
                     </tr>   
                     <?php
