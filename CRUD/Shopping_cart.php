@@ -230,7 +230,6 @@
                             </a>    
                         </td>
                         <td>    
-            
                         </td>
                     </tr>   
                     <?php
@@ -238,11 +237,8 @@
                     } 
                     ?>
                 </tbody>
-            </table>
-            
-            <?php //Delete / Update files
-                
-                
+            </table>    
+            <?php //Delete / Update files        
             ?>
                 </h6>
                     <?php
