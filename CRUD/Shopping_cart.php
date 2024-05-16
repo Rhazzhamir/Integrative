@@ -245,6 +245,9 @@
                         if(isset($_GET['delete_msg'])){
                             echo $_GET['delete_msg'];
                         }
+
+
+                        
                         if(isset($_GET['Update_msg'])){
                             echo $_GET['Update_msg'];
                         }               
