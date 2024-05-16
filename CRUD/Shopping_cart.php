@@ -26,7 +26,6 @@
                 box-shadow: 5px 5px 0px gray;
                 transition-duration: .3s;
                 }
-
                 .svg {
                 width: 13px;
                 position: absolute;
@@ -35,11 +34,9 @@
                 fill: white;
                 transition-duration: .3s;
                 }
-
                 .update:hover {
                 color: transparent;
                 }
-
                 .update:hover svg {
                 right: 43%;
                 margin: 0;
@@ -47,15 +44,11 @@
                 border: none;
                 transition-duration: .3s;
                 }
-
                 .update:active {
                 transform: translate(3px , 3px);
                 transition-duration: .3s;
                 box-shadow: 2px 2px 0px rgb(140, 32, 212);
                 }
-
-
-
                 /* Delete */
                 .bin-button {
                     display: flex;
