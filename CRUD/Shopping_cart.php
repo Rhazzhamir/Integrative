@@ -147,7 +147,6 @@
                         box-shadow: 9px 9px 33px #d1d1d1, -9px -9px 33px #ffffff;
                         transform: translateY(-2px);
                         }
-
         </style>
     </head>
     <body>
