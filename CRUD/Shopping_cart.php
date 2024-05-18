@@ -238,7 +238,7 @@
                     ?>
                 </tbody>
             </table>    
-            <?php //Delete / Update files        
+            <?php //Delete / Update files / Insert
             ?>
                 </h6>
                     <?php
@@ -248,6 +248,10 @@
                         if(isset($_GET['Update_msg'])){
                             echo $_GET['Update_msg'];
                         }               
+                        if(isset($_GET['insert_msg'])){
+                            echo $_GET['insert_msg'];
+                        }
+                        
                     ?>
                 </h6>
             <!-- Modal_Update -->

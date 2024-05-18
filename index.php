@@ -26,10 +26,8 @@
                                 <div class="card-body d-flex flex-column align-items-center">
                                     <input type="hidden" name="shoes_item" value="Unisex Curry 11 'Future Wolf' Basketball Shoes">
                                     <div class="card-title text-center">Unisex Curry 11 'Future Wolf' Basketball Shoes</div>
-
                                     <input type="hidden" name="price" value="₱ 9,195.00">
                                     <div class="card-text">₱ 9,195.00</div>
-
                                     <div>
                                         <label for="validationCustom04" class="form-label">Size</label>
                                         <select class="form-select" id="validationCustom04" name="size">
@@ -42,7 +40,7 @@
                                     <div>
                                         <input type="number" class=" border border-1px form-control mt-2" name="quantity" id="quantity1" min="1">
                                     </div>
-                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn1">Add to Cart</button>
+                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                                 </div>
                             </div>
                     </div>
@@ -67,7 +65,7 @@
                                 <div>
                                     <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                 </div>
-                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn2">Add to Cart</button>
+                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                             </div>
                         </div>
                     </div>
@@ -91,7 +89,7 @@
                                 <div>
                                     <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                 </div>
-                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn3">Add to Cart</button>
+                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                             </div>
                         </div>
                     </div>
@@ -119,7 +117,7 @@
                                         <div>
                                             <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                         </div>
-                                        <button type="submit" class="btn btn-warning mt-2" name="shoes_btn4">Add to Cart</button>
+                                        <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                                     </div>
                                 </div>
                         </div>
@@ -144,7 +142,7 @@
                                     <div>
                                         <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                     </div>
-                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn5">Add to Cart</button>
+                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                                 </div>
                             </div>
                         </div>
@@ -168,7 +166,7 @@
                                     <div>
                                         <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                     </div>
-                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn6">Add to Cart</button>
+                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                                 </div>
                             </div>
                         </div>
@@ -196,7 +194,7 @@
                                     <div>
                                         <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                     </div>
-                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn7">Add to Cart</button>
+                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                                 </div>
                             </div>
                     </div>
@@ -221,7 +219,7 @@
                                 <div>
                                     <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                 </div>
-                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn8">Add to Cart</button>
+                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                             </div>
                         </div>
                     </div>
@@ -245,7 +243,7 @@
                                 <div>
                                     <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                 </div>
-                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn9">Add to Cart</button>
+                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                             </div>
                         </div>
                     </div>
@@ -273,7 +271,7 @@
                                     <div>
                                         <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                     </div>
-                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn10">Add to Cart</button>
+                                    <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                                 </div>
                             </div>
                     </div>
@@ -298,7 +296,7 @@
                                 <div>
                                     <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                 </div>
-                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn11">Add to Cart</button>
+                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                             </div>
                         </div>
                     </div>
@@ -322,7 +320,7 @@
                                 <div>
                                     <input type="number" class="form-control mt-2" name="quantity" id="quantity1" min="1">
                                 </div>
-                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn12">Add to Cart</button>
+                                <button type="submit" class="btn btn-warning mt-2" name="shoes_btn">Add to Cart</button>
                             </div>
                         </div>
                     </div>
